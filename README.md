@@ -38,13 +38,17 @@ Python 3.10+
 
 ### 1. Clone the repository
 
-`git clone https://github.com/yourusername/exolix-swap-cli.git
-cd exolix-swap-cli`
+```bash
+git clone https://github.com/yourusername/exolix-swap-cli.git
+cd exolix-swap-cli
+```
 
 ### 2. (Recommended) Create a virtual environment
 
-`python -m venv .venv
-source .venv/bin/activate      # Windows: .venv\Scripts\activate`
+```bash
+python -m venv .venv
+source .venv/bin/activate # Windows: .venv\Scripts\activate
+```
 
 ### 3. Install dependencies
 
